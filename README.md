@@ -13,7 +13,7 @@ The primary purpose of this model is to accurately identify houseplant species f
 ## B. Plant Species Section
 
 ### 1. Prince of Orange
-![Prince of Orange]([https://planthawaii.com/wp-content/uploads/2023/10/Philodendron_Prince_of_Orange-1-1024x1024.jpg])
+![Prince of Orange](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/1_prince_of_orange/1.jpg?raw=true)
 * **Common Name:** Prince of Orange
 * **Scientific Name:** *Philodendron erubescens* 'Prince of Orange'
 * **Description:** A striking, self-heading tropical plant known for its vibrant foliage. New leaves emerge a brilliant starburst orange before transitioning to pale green and eventually a deep, mature dark green.
