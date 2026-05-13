@@ -12,25 +12,127 @@ The primary purpose of this model is to accurately identify houseplant species f
 
 ## B. Plant Species Section
 
+## B. Plant Species Section
+
 ### 1. Prince of Orange
-![Prince of Orange](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/1_prince_of_orange/1.jpg?raw=true)
+![Prince of Orange](dataset/prince_of_orange.png)
 * **Common Name:** Prince of Orange
 * **Scientific Name:** *Philodendron erubescens* 'Prince of Orange'
 * **Description:** A striking, self-heading tropical plant known for its vibrant foliage. New leaves emerge a brilliant starburst orange before transitioning to pale green and eventually a deep, mature dark green.
 
 ### 2. Birkin
-![Birkin]([Insert link to your Birkin image here])
+![Birkin](dataset/birkin.png)
 * **Common Name:** Birkin / White Measure
 * **Scientific Name:** *Philodendron* 'Birkin'
-* **Description:** A stunning, slow-growing tropical houseplant famous for its dark green, glossy leaves with intricate, creamy-white pinstripes. It features an upright, self-heading growth habit and is a naturally occurring mutation of the Philodendron 'Rojo Congo'.
+* **Description:** A stunning, slow-growing houseplant famous for its dark green, glossy leaves with intricate, creamy-white pinstripes. It features an upright, self-heading growth habit.
 
-### 3. [Insert Plant 3 Common Name]
-![Plant 3 Name]([Insert link to your image here])
-* **Common Name:** [Insert Common Name]
-* **Scientific Name:** *[Insert Scientific Name]*
-* **Description:** [Insert brief description here]
+### 3. Brasil
+![Brasil](dataset/brasil.png)
+* **Common Name:** Philodendron Brasil
+* **Scientific Name:** *Philodendron hederaceum* 'Brasil'
+* **Description:** A fast-growing trailing vine featuring heart-shaped, dark green leaves with bold, central splashes of lime green and yellow variegation. 
 
-*(Repeat this block for plants 4 through 20)*
+### 4. Moonlight
+![Moonlight](dataset/moonlight.png)
+* **Common Name:** Philodendron Moonlight
+* **Scientific Name:** *Philodendron* 'Moonlight'
+* **Description:** An upright, non-vining hybrid known for its radiant, fluorescent yellow-green new foliage. The spear-shaped leaves eventually darken to an emerald green as they mature.
+
+### 5. Paraiso Verde
+![Paraiso Verde](dataset/paraiso_verde.png)
+* **Common Name:** Paraiso Verde
+* **Scientific Name:** *Philodendron* 'Paraiso Verde'
+* **Description:** A highly sought-after climbing species with elongated leaves that feature stunning, mottled light green and dark green variegation. Its pattern intensity can shift based on light and temperature.
+
+### 6. Jungle Boogie
+![Jungle Boogie](dataset/jungle_boogie.png)
+* **Common Name:** Jungle Boogie / Tiger Tooth
+* **Scientific Name:** *Philodendron* 'Jungle Boogie'
+* **Description:** Characterized by its long, narrow, and deeply serrated "zig-zag" leaf edges. It is a sturdy, upright plant that adds a wild, structural texture to indoor gardens.
+
+### 7. Green Emerald
+![Green Emerald](dataset/green_emerald.png)
+* **Common Name:** Green Emerald
+* **Scientific Name:** *Philodendron erubescens* 'Green Emerald'
+* **Description:** A robust, climbing aroid that produces large, glossy, arrow-shaped dark green leaves supported by thick green stems. 
+
+### 8. Giganteum
+![Giganteum](dataset/giganteum.png)
+* **Common Name:** Giant Philodendron
+* **Scientific Name:** *Philodendron giganteum*
+* **Description:** True to its name, this species is known for producing massive, broad, glossy green leaves. It is a sprawling climber that requires significant space to reach its full potential.
+
+### 9. Green Dragon
+![Green Dragon](dataset/green_dragon.png)
+* **Common Name:** Green Dragon
+* **Scientific Name:** *Philodendron* 'Green Dragon'
+* **Description:** A unique climbing variety featuring dark green, mask-like leaves. The foliage develops deep lobes near the stem, giving the distinct appearance of a dragon's head or a shield.
+
+### 10. Epipremnum Variegated
+![Epipremnum Variegated](dataset/epipremnum_variegated.png)
+* **Common Name:** Variegated Epipremnum / Variegated Pothos
+* **Scientific Name:** *Epipremnum pinnatum* 'Variegata' (or *E. aureum*)
+* **Description:** A fast-growing climbing vine with striking white or yellow and green mottled variegation. As the plant matures and climbs, its leaves can develop fenestrations (natural splits).
+
+### 11. Golden Crocodile
+![Golden Crocodile](dataset/golden_crocodile.png)
+* **Common Name:** Golden Crocodile
+* **Scientific Name:** *Philodendron* 'Golden Crocodile'
+* **Description:** Features long, bright yellow-green leaves with heavily serrated, saw-like margins. Its vibrant color and jagged texture heavily resemble the ridges on a crocodile's back.
+
+### 12. Bipinnatifidum
+![Bipinnatifidum](dataset/bipinnatifidum.png)
+* **Common Name:** Tree Philodendron / Lacy Tree Philodendron
+* **Scientific Name:** *Philodendron bipinnatifidum* (also *Thaumatophyllum bipinnatifidum*)
+* **Description:** A large, structural plant with massive, deeply lobed, lacy green leaves. Over time, it sheds lower leaves to form a distinct, thick, tree-like trunk with visible eye-like scars.
+
+### 13. Bob Cee
+![Bob Cee](dataset/bob_cee.png)
+* **Common Name:** Philodendron Bob Cee
+* **Scientific Name:** *Philodendron* 'Bob Cee'
+* **Description:** A spectacular large-scale climber featuring narrow, highly pinnatifid (deeply cut) leaves. The foliage creates a dramatic, tropical, feathery appearance.
+
+### 14. Florida Green
+![Florida Green](dataset/florida_green.png)
+* **Common Name:** Florida Green
+* **Scientific Name:** *Philodendron* 'Florida Green'
+* **Description:** A climbing hybrid distinguished by its unique multi-lobed leaves that resemble a flying ghost or oak leaf. It is also notable for its rough, bumpy petioles (the stems connecting the leaf to the vine).
+
+### 15. Malay Gold
+![Malay Gold](dataset/malay_gold.png)
+* **Common Name:** Malay Gold / Golden Goddess
+* **Scientific Name:** *Philodendron* 'Malay Gold'
+* **Description:** A bright, upright climbing species featuring vibrant neon yellow-green, paddle-shaped leaves. Its striking coloration provides a strong contrast against darker tropical plants.
+
+### 16. Neon Pothos
+![Neon Pothos](dataset/neon_pothos.png)
+* **Common Name:** Neon Pothos
+* **Scientific Name:** *Epipremnum aureum* 'Neon'
+* **Description:** Although frequently grouped with Philodendrons, this is a trailing vining plant boasting intensely bright, solid, fluorescent chartreuse-green heart-shaped leaves. 
+
+### 17. Mayoi
+![Mayoi](dataset/mayoi.png)
+* **Common Name:** Philodendron Mayoi
+* **Scientific Name:** *Philodendron mayoi*
+* **Description:** A vigorous climbing species with dark green, deeply lobed leaves that resemble a palm frond. It is often distinguished by the reddish hue found on the underside of its stems.
+
+### 18. Painted Lady
+![Painted Lady](dataset/painted_lady.png)
+* **Common Name:** Painted Lady
+* **Scientific Name:** *Philodendron* 'Painted Lady'
+* **Description:** A highly ornamental climbing hybrid. Its leaves feature a beautiful mosaic of bright yellow mottled with green, which is sharply contrasted by vibrant pink to reddish petioles (stems).
+
+### 19. Bipennifolium Aurea
+![Bipennifolium Aurea](dataset/bipennifolium_aurea.png)
+* **Common Name:** Gold Violin Philodendron
+* **Scientific Name:** *Philodendron bipennifolium* 'Aurea'
+* **Description:** Known for its highly unusual leaf shape resembling a horse's head or a violin. The 'Aurea' variety emerges a stunning, bright golden-yellow before slowly transitioning to a chartreuse green.
+
+### 20. Golden Melonii
+![Golden Melonii](dataset/golden_melonii.png)
+* **Common Name:** Golden Melinonii
+* **Scientific Name:** *Philodendron melinonii* 'Gold'
+* **Description:** A magnificent, large self-heading plant. It forms a massive rosette of bright golden-yellow, leathery, paddle-shaped leaves that grow from thick, fleshy stalks.
 
 ---
 
