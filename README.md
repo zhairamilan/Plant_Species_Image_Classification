@@ -21,25 +21,25 @@ The primary purpose of this model is to accurately identify houseplant species f
 * **Description:** A striking, self-heading tropical plant known for its vibrant foliage. New leaves emerge a brilliant starburst orange before transitioning to pale green and eventually a deep, mature dark green.
 
 ### 2. Birkin
-![Birkin]()
+![Birkin](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/2_birkin/001.jpg?raw=true)
 * **Common Name:** Birkin / White Measure
 * **Scientific Name:** *Philodendron* 'Birkin'
 * **Description:** A stunning, slow-growing houseplant famous for its dark green, glossy leaves with intricate, creamy-white pinstripes. It features an upright, self-heading growth habit.
 
 ### 3. Brasil
-![Brasil](dataset/brasil.png)
+![Brasil](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/3_brasil/001.jpg?raw=true)
 * **Common Name:** Philodendron Brasil
 * **Scientific Name:** *Philodendron hederaceum* 'Brasil'
 * **Description:** A fast-growing trailing vine featuring heart-shaped, dark green leaves with bold, central splashes of lime green and yellow variegation. 
 
 ### 4. Moonlight
-![Moonlight](dataset/moonlight.png)
+![Moonlight](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/4_moonlight/001.jpg?raw=true)
 * **Common Name:** Philodendron Moonlight
 * **Scientific Name:** *Philodendron* 'Moonlight'
 * **Description:** An upright, non-vining hybrid known for its radiant, fluorescent yellow-green new foliage. The spear-shaped leaves eventually darken to an emerald green as they mature.
 
 ### 5. Paraiso Verde
-![Paraiso Verde](dataset/paraiso_verde.png)
+![Paraiso Verde](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/5_paraiso_verde/001.jpg?raw=true)
 * **Common Name:** Paraiso Verde
 * **Scientific Name:** *Philodendron* 'Paraiso Verde'
 * **Description:** A highly sought-after climbing species with elongated leaves that feature stunning, mottled light green and dark green variegation. Its pattern intensity can shift based on light and temperature.
