@@ -144,13 +144,13 @@ The primary purpose of this model is to accurately identify houseplant species f
 ## D. Model Evaluation
 
 ### Confusion Matrix
-![Confusion Matrix]([Insert link to your Confusion Matrix screenshot here])
+![Confusion Matrix](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/confusion_matrix.PNG?raw=true)
 
 ### Accuracy Per Class
-![Accuracy Per Class]([Insert link to your Accuracy Per Class screenshot here])
+![Accuracy Per Class](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/accuracy_per_class.PNG?raw=true)
 
 ### Overall Model Accuracy
-![Overall Accuracy]([Insert link to your Overall Accuracy screenshot here])
+![Overall Accuracy](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/overall_accuracy.PNG?raw=true)
 
 ---
 
@@ -158,16 +158,16 @@ The primary purpose of this model is to accurately identify houseplant species f
 
 Below are 10 live testing screenshots from the Teachable Machine Preview section, demonstrating the model predicting species on unseen images.
 
-1. ![Test 1]([Insert link to Test 1 screenshot here])
-2. ![Test 2]([Insert link to Test 2 screenshot here])
-3. ![Test 3]([Insert link to Test 3 screenshot here])
-4. ![Test 4]([Insert link to Test 4 screenshot here])
-5. ![Test 5]([Insert link to Test 5 screenshot here])
-6. ![Test 6]([Insert link to Test 6 screenshot here])
-7. ![Test 7]([Insert link to Test 7 screenshot here])
-8. ![Test 8]([Insert link to Test 8 screenshot here])
-9. ![Test 9]([Insert link to Test 9 screenshot here])
-10. ![Test 10]([Insert link to Test 10 screenshot here])
+1. ![Test 1](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/1.PNG?raw=true)
+2. ![Test 2](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/2.PNG?raw=true)
+3. ![Test 3](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/3.PNG?raw=true)
+4. ![Test 4](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/4.PNG?raw=true)
+5. ![Test 5](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/5.PNG?raw=true)
+6. ![Test 6](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/6.PNG?raw=true)
+7. ![Test 7](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/7.PNG?raw=true)
+8. ![Test 8](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/8.PNG?raw=true)
+9. ![Test 9](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/9.PNG?raw=true)
+10. ![Test 10](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/Plant-Species-Image-Classification/screenshots/19.PNG?raw=true)
 
 ---
 
