@@ -8,9 +8,6 @@ This project is an image classification machine learning model built using Googl
 **Purpose:**
 The primary purpose of this model is to accurately identify houseplant species from user-uploaded images or live webcam feeds. This serves as a demonstration of computer vision and transfer learning techniques applied to botanical classification.
 
----
-
-## B. Plant Species Section
 
 ## B. Plant Species Section
 
@@ -134,15 +131,15 @@ The primary purpose of this model is to accurately identify houseplant species f
 * **Scientific Name:** *Philodendron melinonii* 'Gold'
 * **Description:** A magnificent, large self-heading plant. It forms a massive rosette of bright golden-yellow, leathery, paddle-shaped leaves that grow from thick, fleshy stalks.
 
----
+
 
 ## C. Model Training Details
 * **Epochs:** 50
 * **Batch Size:** 16
 * **Learning Rate:** 0.001
-* **Number of Images per Class:** [Insert your number, e.g., 250]
+* **Number of Images per Class:** [250 - 260 Images]
 
----
+
 
 ## D. Model Evaluation
 
@@ -171,3 +168,22 @@ Below are 10 live testing screenshots from the Teachable Machine Preview section
 8. ![Test 8]([Insert link to Test 8 screenshot here])
 9. ![Test 9]([Insert link to Test 9 screenshot here])
 10. ![Test 10]([Insert link to Test 10 screenshot here])
+
+---
+
+## F. Reflection Questions
+
+**1. How did the number of images per class affect your model’s accuracy?**
+- In my experience, hitting the 250-image mark per species was essential for the model to actually learn the differences in leaf texture and variegation. Since many Philodendrons look similar, having a larger dataset allowed the model to see the plants under different lighting conditions. I noticed that for the classes where the scraper picked up more varied images, the confidence score in the preview section was much higher. If I had used fewer images, I don't think the model would have been able to distinguish between the subtle green-on-green patterns of some of the climbing varieties.
+
+**2. Which plant species were most commonly misclassified and why?**
+- The model struggled the most with the Philodendron Birkin and the Epipremnum/Pothos varieties. For the Birkin, it occasionally got confused if the training data included the "Rojo Congo" version (which is the parent plant) or if the pinstripes weren't clear. There was also a lot of confusion between the Neon Pothos and the Malay Gold because they both share that bright, fluorescent chartreuse color. The model seems to prioritize color over leaf shape in some cases, which led to these mix-ups between the trailing and upright species.
+
+**3. How did changing the epochs, batch size, or learning rate affect the training results?**
+- I kept the parameters at the suggested levels (50 epochs, 16 batch size, 0.001 learning rate), but I noticed that the batch size was particularly important for my computer's performance. When the browser was processing the images, I could tell the system was under a lot of stress. Sticking to a batch size of 16 seemed to be the "sweet spot" that allowed the model to update its weights frequently enough to reach high accuracy without crashing the Chrome tab. If I had lowered the learning rate further, it felt like the 50 epochs wouldn't have been enough to reach the high accuracy I eventually saw.
+  
+**4. What challenges did you encounter during dataset collection and labeling?**
+- This was the most difficult part of the lab. My biggest challenge was "data noise" caused by search engines. For example, when searching for "Birkin," the scraper initially pulled hundreds of photos of luxury handbags instead of the Philodendron Birkin plant. I had to spend a lot of time refining my Python script's search queries to filter these out. I also ran into several Windows permission errors (WinError 32) while trying to rename and organize the files, because the system wouldn't let Python touch the images while they were being previewed in my folder.
+
+**5. If you were to improve your model, what specific changes would you make and why?**
+- If I were to do this again, I would spend more time on manual "data pruning." Even with a good scraper, some images contained watermarks, human hands holding the pots, or multiple different plants in the background, which can confuse the AI. I would also use the image-shrinking script I developed right from the start. By resizing everything to 224x224 before uploading, the training process would be much faster and the browser wouldn't freeze, allowing me to potentially test even more than 20 species or more images per class.
