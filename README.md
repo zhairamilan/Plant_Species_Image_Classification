@@ -57,7 +57,7 @@ The primary purpose of this model is to accurately identify houseplant species f
 * **Description:** A robust, climbing aroid that produces large, glossy, arrow-shaped dark green leaves supported by thick green stems. 
 
 ### 8. Giganteum
-![Giganteum](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/8_giganteum/002.png?raw=true)
+![Giganteum](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/8_giganteum/246.png?raw=true)
 * **Common Name:** Giant Philodendron
 * **Scientific Name:** *Philodendron giganteum*
 * **Description:** True to its name, this species is known for producing massive, broad, glossy green leaves. It is a sprawling climber that requires significant space to reach its full potential.
@@ -69,7 +69,7 @@ The primary purpose of this model is to accurately identify houseplant species f
 * **Description:** A unique climbing variety featuring dark green, mask-like leaves. The foliage develops deep lobes near the stem, giving the distinct appearance of a dragon's head or a shield.
 
 ### 10. Epipremnum Variegated
-![Epipremnum Variegated](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/10_epipremnum_variegated/015.png?raw=true)
+![Epipremnum Variegated](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/10_epipremnum_variegated/012.png?raw=true)
 * **Common Name:** Variegated Epipremnum / Variegated Pothos
 * **Scientific Name:** *Epipremnum pinnatum* 'Variegata' (or *E. aureum*)
 * **Description:** A fast-growing climbing vine with striking white or yellow and green mottled variegation. As the plant matures and climbs, its leaves can develop fenestrations (natural splits).
@@ -111,25 +111,25 @@ The primary purpose of this model is to accurately identify houseplant species f
 * **Description:** Although frequently grouped with Philodendrons, this is a trailing vining plant boasting intensely bright, solid, fluorescent chartreuse-green heart-shaped leaves. 
 
 ### 17. Mayoi
-![Mayoi](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/dataset/17_mayoi/001.jpg?raw=true)
+![Mayoi](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/17_mayoi/001.jpg?raw=true)
 * **Common Name:** Philodendron Mayoi
 * **Scientific Name:** *Philodendron mayoi*
 * **Description:** A vigorous climbing species with dark green, deeply lobed leaves that resemble a palm frond. It is often distinguished by the reddish hue found on the underside of its stems.
 
 ### 18. Painted Lady
-![Painted Lady](dataset/painted_lady.png)
+![Painted Lady](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/18_painted_lady/001.png?raw=true)
 * **Common Name:** Painted Lady
 * **Scientific Name:** *Philodendron* 'Painted Lady'
 * **Description:** A highly ornamental climbing hybrid. Its leaves feature a beautiful mosaic of bright yellow mottled with green, which is sharply contrasted by vibrant pink to reddish petioles (stems).
 
 ### 19. Bipennifolium Aurea
-![Bipennifolium Aurea](dataset/bipennifolium_aurea.png)
+![Bipennifolium Aurea](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/19_bipennifolium_aurea/001.png?raw=true)
 * **Common Name:** Gold Violin Philodendron
 * **Scientific Name:** *Philodendron bipennifolium* 'Aurea'
 * **Description:** Known for its highly unusual leaf shape resembling a horse's head or a violin. The 'Aurea' variety emerges a stunning, bright golden-yellow before slowly transitioning to a chartreuse green.
 
 ### 20. Golden Melonii
-![Golden Melonii](dataset/golden_melonii.png)
+![Golden Melonii](https://github.com/zhairamilan/Plant_Species_Image_Classification/blob/main/20_folden_melonii/001.png?raw=true)
 * **Common Name:** Golden Melinonii
 * **Scientific Name:** *Philodendron melinonii* 'Gold'
 * **Description:** A magnificent, large self-heading plant. It forms a massive rosette of bright golden-yellow, leathery, paddle-shaped leaves that grow from thick, fleshy stalks.
