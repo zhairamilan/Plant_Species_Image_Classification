@@ -1,5 +1,8 @@
 # Plant_Species_Image_Classification
 Laboratory Work 2-A | Image Classification Using Teachable Machine
+---
+# Google Drive Link: https://drive.google.com/drive/folders/1jPQKnP-vnhCB6xq0iRyN5vXNMneHgDym?usp=drive_link
+# Github Repo Link:  https://github.com/zhairamilan/Plant_Species_Image_Classification
 
 ## A. Project Overview
 **Project Description:** 
